@@ -6,6 +6,10 @@
   
 </div>
 
+***
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,py,raspberrypi,linux,ubuntu,mysql)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=md,notion,github,vscode,npm,yarn,replit,stackoverflow)](https://skillicons.dev)
+
 
 <!--
 **hsilan-sui/hsilan-sui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
