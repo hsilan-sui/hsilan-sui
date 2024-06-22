@@ -7,8 +7,9 @@
 </div>
 
 ***
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,py,raspberrypi,linux,ubuntu,mysql)](https://skillicons.dev) </br>
-[![My Skills](https://skillicons.dev/icons?i=md,notion,github,vscode,npm,yarn,replit,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,py,mysql)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,md,notion,vscode,replit,stackoverflow,npm,yarn)](https://skillicons.dev)
 
 
 <!--
