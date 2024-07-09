@@ -8,6 +8,7 @@
 
 ***
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,py,mysql)](https://skillicons.dev) </br>
+[![My Skills](https://skillicons.dev/icons?i=flask,django)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)](https://skillicons.dev) </br>
 [![My Skills](https://skillicons.dev/icons?i=git,github,md,notion,vscode,replit,stackoverflow,npm,yarn)](https://skillicons.dev)
 
