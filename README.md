@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Morning%20without%20coding%20is%20a%20dwindled%20Dawn)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Morning%20without%20coding&coffee%20is%20a%20dwindled%20Dawn)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </div>
 
