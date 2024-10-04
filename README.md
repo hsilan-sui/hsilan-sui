@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 <div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Morning%20without%20coding%20%26%20coffee%20is%20a%20dwindled%20Dawn.%0A沒有程式與咖啡的清晨，如同黯淡的黎明)](https://github.com/piyushsuthar/github-readme-quotes)
+
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Morning%20without%20coding&coffee%20is%20a%20dwindled%20Dawn)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Morning%20without%20coding%20is%20a%20dwindled%20Dawn)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </div>
 
