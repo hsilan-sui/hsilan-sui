@@ -49,10 +49,6 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-請求測試工具<br />
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-圖片空間<br />
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 <!-- 第五排：開發工具與平台 -->
 
 LLMs / AI<br />
@@ -62,6 +58,8 @@ LLMs / AI<br />
 ![DALL·E](https://img.shields.io/badge/DALL·E_by_OpenAI-78C5CC.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 開發工具與平台<br />
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
