@@ -10,36 +10,6 @@
 </div>
 
 ***
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,vite,react,py,mysql)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,docker)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=flask,django,postman)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,md,notion,vscode,replit,stackoverflow,npm,yarn)](https://skillicons.dev)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/typeorm-%23007ACC.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-<!-- 第一排：核心前端技能 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,vite,react)](https://skillicons.dev)<br>
-
-<!-- 第二排：後端與資料庫 -->
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,docker,py)](https://skillicons.dev)<br>
-
-<!-- 第三排：全端框架與API工具 -->
-[![My Skills](https://skillicons.dev/icons?i=flask,django,postman)](https://skillicons.dev)<br>
-
-<!-- 第四排：作業系統與裝置 -->
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)](https://skillicons.dev)<br>
-
-
----
-
 <!-- 進階技能徽章（For-the-badge 風格） -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
