@@ -10,7 +10,7 @@
 </div>
 
 ***
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,react,py,mysql)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,vite,react,py,mysql)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,docker)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=flask,django,postman)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)](https://skillicons.dev)<br>
