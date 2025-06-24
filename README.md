@@ -18,49 +18,50 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-後端
+後端<br />
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
-後端框架
+後端框架<br />
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-資料庫
+資料庫與工具<br />
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/typeorm-%23007ACC.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-容器化
+
+容器化<br />
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-前端框架與工具
+前端框架與工具<br />
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-樹莓派
+樹莓派<br />
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-請求測試工具
+請求測試工具<br />
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
+圖片空間<br />
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 <!-- 第五排：開發工具與平台 -->
 
-LLMs / AI
+LLMs / AI<br />
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT Function Calling](https://img.shields.io/badge/ChatGPT_Function_Calling-10A37F.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper_by_OpenAI-5A57C9.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![DALL·E](https://img.shields.io/badge/DALL·E_by_OpenAI-78C5CC.svg?style=for-the-badge&logo=openai&logoColor=white)
 
-### 開發工具與平台  
+開發工具與平台<br />
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
