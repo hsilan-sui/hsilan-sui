@@ -11,10 +11,7 @@
 | Project | Demo | Code | Skills |
 |-----|--------|-------- |--------|
 | Everforest/露營票務系統專案 |[Everforest](https://camping-project-one.vercel.app/) | [Github連結](https://github.com/hsilan-sui/everforest-backend)  |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
-| ToyVisionPay_project/公仔辨識結帳專案  | [Demo連結](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s) | [Github連結](https://github.com/hsilan-sui/ToyVisionPay_project/tree/main?tab=readme-ov-file)| `AI` `YOLOv4` `Roboflow` `Google Colab` `Darknet` `AIoT` `AMB82-Mini`  
-`MQTT` `MQTT Broker（如 Mosquitto）` `MQTT Protocol`  
-`Flask` `SQLAlchemy` `PostgreSQL` `WebSocket`  
-`HTML` `CSS` `JavaScript` `Bootstrap`  |
+| ToyVisionPay_project/公仔辨識結帳專案  | [Demo連結](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s) | [Github連結](https://github.com/hsilan-sui/ToyVisionPay_project/tree/main?tab=readme-ov-file)| `YOLOv4` `Roboflow` `Google Colab` `Darknet`  `AMB82-Mini`  `MQTT Protocol` `Flask` `SQLAlchemy` `PostgreSQL` `WebSocket` `HTML` `CSS` `JavaScript` `Bootstrap`  |
 
 ## 技能徽章 | Skills Badges  
 ***
