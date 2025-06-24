@@ -6,9 +6,15 @@
   
 </div>
 
+## 專案 | Projects
+
+|Project |Link |Skills |
+|-----|--------|-------- |
+| 公仔辨識結帳專案  | [Demo連結]([https://github.com/ChenHelena/line-bot-travel-note.git](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s)) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
+|social networking sites  |[Twitter Clone](<https://github.com/ChenHelena/twitter-clone>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
+
 ## 技能徽章 | Skills Badges  
 ***
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,6 +44,9 @@
 ###  Dev Tools & Platforms  
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+
+## Contact
+![Gmail](https://img.shields.io/badge/yufangcheng1101@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <!--
 **hsilan-sui/hsilan-sui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
