@@ -8,8 +8,8 @@
 
 ## 專案 | Projects
 
-|專案名 |展示 |程式碼 |應用技能 |
-|-----|--------|-------- |
+| 專案名 | 展示 | 程式碼 | 應用技能 |
+|-----|--------|-------- |--------|
 | 公仔辨識結帳專案  | [Demo連結](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s) | [github](https://github.com/ChenHelena/twitter-clone)   | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
 |social networking sites  |[Twitter Clone](<https://github.com/ChenHelena/twitter-clone>) | 公仔辨識結帳專案  |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
 
