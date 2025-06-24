@@ -6,7 +6,7 @@
   
 </div>
 
-## 🧠 技能徽章 | Skills Badges  
+## 技能徽章 | Skills Badges  
 ***
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,22 +30,13 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 🤖 LLMs / AI  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![ChatGPT Function Calling](https://img.shields.io/badge/ChatGPT_Function_Calling-10A37F.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![Whisper](https://img.shields.io/badge/Whisper_by_OpenAI-5A57C9.svg?style=for-the-badge&logo=openai&logoColor=white)  
-![DALL·E](https://img.shields.io/badge/DALL·E_by_OpenAI-78C5CC.svg?style=for-the-badge&logo=openai&logoColor=white)
+### LLMs / AI  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)  ![ChatGPT Function Calling](https://img.shields.io/badge/ChatGPT_Function_Calling-10A37F.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Whisper](https://img.shields.io/badge/Whisper_by_OpenAI-5A57C9.svg?style=for-the-badge&logo=openai&logoColor=white)  ![DALL·E](https://img.shields.io/badge/DALL·E_by_OpenAI-78C5CC.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 🧰 開發工具與平台 | Dev Tools & Platforms  
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+###  Dev Tools & Platforms  
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <!--
 **hsilan-sui/hsilan-sui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
