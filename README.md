@@ -34,10 +34,21 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+### IOT
 ![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![AMB82-Mini](https://img.shields.io/badge/AMB82--Mini-333333.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+
 
 ### LLMs / AI  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)  ![ChatGPT Function Calling](https://img.shields.io/badge/ChatGPT_Function_Calling-10A37F.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Whisper](https://img.shields.io/badge/Whisper_by_OpenAI-5A57C9.svg?style=for-the-badge&logo=openai&logoColor=white)  ![DALL·E](https://img.shields.io/badge/DALL·E_by_OpenAI-78C5CC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)  ![ChatGPT Function Calling](https://img.shields.io/badge/ChatGPT_Function_Calling-10A37F.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Whisper](https://img.shields.io/badge/Whisper_by_OpenAI-5A57C9.svg?style=for-the-badge&logo=openai&logoColor=white)  ![DALL·E](https://img.shields.io/badge/DALL·E_by_OpenAI-78C5CC.svg?style=for-the-badge&logo=openai&logoColor=white) ![YOLOv4](https://img.shields.io/badge/YOLOv4-FFBB00.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-0A0A23.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA...略)&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Darknet](https://img.shields.io/badge/Darknet-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
 
 ---
 
