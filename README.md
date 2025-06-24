@@ -25,7 +25,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
+![Python]([https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white))
+	
 
 ![Python]([https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white))
 
