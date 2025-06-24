@@ -10,7 +10,7 @@
 
 |Project |Link |Skills |
 |-----|--------|-------- |
-| 公仔辨識結帳專案  | [Demo連結](<https://github.com/ChenHelena/line-bot-travel-note.git](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s>) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
+| 公仔辨識結帳專案  | [Demo連結](https://github.com/ChenHelena/line-bot-travel-note.git](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s) | `Node.js` `Express` `PostgreSQL` `TypeORM` `Firebase Storage` `Docker` `Line Bot API` |
 |social networking sites  |[Twitter Clone](<https://github.com/ChenHelena/twitter-clone>) |`Ruby on Rails` `CRUD` `Javascript` `PostgreSQL`  |
 
 ## 技能徽章 | Skills Badges  
