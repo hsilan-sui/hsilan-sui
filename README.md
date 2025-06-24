@@ -10,7 +10,7 @@
 
 | Project | Demo | Code | Skills |
 |-----|--------|-------- |--------|
-| Everforest/露營票務系統專案（負責後端） |[Everforest](https://camping-project-one.vercel.app/) | [Github連結](https://github.com/hsilan-sui/everforest-backend)  | `Node.js` `Express` `PostgreSQL` `TypeORM` `JWT` `Cookie` `Docker` `Docker Compose` `Husky` `Commitlint` `ESLint` `Prettier` `Swagger` |
+| Everforest/露營票務系統專案（負責後端） |[Everforest](https://camping-project-one.vercel.app/) | [Github連結](https://github.com/hsilan-sui/everforest-backend)  | `Node.js` `Express` `PostgreSQL` `TypeORM` `JWT` `Cookie` `Docker` `Docker Compose` `Husky` `Commitlint` `ESLint` `Prettier` `Swagger` `openai API` `chgpt function call`  |
 | ToyVisionPay_project/公仔辨識結帳專案  | [Demo連結](https://www.youtube.com/watch?v=b0CbNcgBwGQ&t=41s) | [Github連結](https://github.com/hsilan-sui/ToyVisionPay_project/tree/main?tab=readme-ov-file)| `YOLOv4` `Roboflow` `Google Colab` `Darknet`  `AMB82-Mini`  `MQTT Protocol` `Flask` `SQLAlchemy` `PostgreSQL` `WebSocket` `HTML` `CSS` `JavaScript` `Bootstrap`  |
 
 ## 技能徽章 | Skills Badges  
