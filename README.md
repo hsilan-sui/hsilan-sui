@@ -9,9 +9,6 @@
 ## 技能徽章 | Skills  
 ***
 
-## 🧠 技能徽章 | Skills Badges  
-***
-
 ### 💻 前端 | Frontend  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
